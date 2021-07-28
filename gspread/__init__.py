@@ -9,8 +9,8 @@ Google Spreadsheets client library.
 """
 
 
-__version__ = '3.7.0'
-__author__ = 'Anton Burnashev'
+__version__ = '3.9.5'
+__author__ = 'Abhishek'
 
 
 from .auth import oauth, service_account, service_account_from_dict
